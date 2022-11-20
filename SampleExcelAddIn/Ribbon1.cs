@@ -37,7 +37,6 @@ namespace SampleExcelAddIn
             }
             catch (Exception ex)
             {
-
                 throw;
             }
         }
