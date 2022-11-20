@@ -1,0 +1,15 @@
+C:\Users\ashish\source\repos\SampleExcelAddIn\SampleExcelAddIn\bin\Debug\SampleExcelAddIn.dll
+C:\Users\ashish\source\repos\SampleExcelAddIn\SampleExcelAddIn\bin\Debug\SampleExcelAddIn.pdb
+C:\Users\ashish\source\repos\SampleExcelAddIn\SampleExcelAddIn\bin\Debug\SampleExcelAddIn.dll.manifest
+C:\Users\ashish\source\repos\SampleExcelAddIn\SampleExcelAddIn\bin\Debug\SampleExcelAddIn.vsto
+C:\Users\ashish\source\repos\SampleExcelAddIn\SampleExcelAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\ashish\source\repos\SampleExcelAddIn\SampleExcelAddIn\obj\Debug\SampleExcelAddIn.csproj.AssemblyReference.cache
+C:\Users\ashish\source\repos\SampleExcelAddIn\SampleExcelAddIn\obj\Debug\SampleExcelAddIn.Properties.Resources.resources
+C:\Users\ashish\source\repos\SampleExcelAddIn\SampleExcelAddIn\obj\Debug\SampleExcelAddIn.csproj.GenerateResource.cache
+C:\Users\ashish\source\repos\SampleExcelAddIn\SampleExcelAddIn\obj\Debug\SampleExcelAddIn.csproj.CoreCompileInputs.cache
+C:\Users\ashish\source\repos\SampleExcelAddIn\SampleExcelAddIn\obj\Debug\SampleExcelAddIn.csproj.CopyComplete
+C:\Users\ashish\source\repos\SampleExcelAddIn\SampleExcelAddIn\obj\Debug\SampleExcelAddIn.dll
+C:\Users\ashish\source\repos\SampleExcelAddIn\SampleExcelAddIn\obj\Debug\SampleExcelAddIn.pdb
+C:\Users\ashish\source\repos\SampleExcelAddIn\SampleExcelAddIn\obj\Debug\SampleExcelAddIn.Ribbon1.resources
+C:\Users\ashish\source\repos\SampleExcelAddIn\SampleExcelAddIn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ashish\source\repos\SampleExcelAddIn\SampleExcelAddIn\bin\Debug\Newtonsoft.Json.xml
